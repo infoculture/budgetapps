@@ -2,6 +2,12 @@
 Материалы и задачи для конкурса BudgetApps, хакатонов в рамках конкурса и так далее 
 Хакатон "Budget-Pro"
 
+## Идеи и задачи для хакатона
+
+* Идеи для хакатона собраны по ссылке - https://github.com/infoculture/budgetapps/issues
+
+* Также посмотрите на идеи собранные в рамках других конкурсов чтобы понимать, что можно сделать по аналогии https://github.com/infoculture/datatasks/issues
+
 ## Основные наборы данных
 
 * Министерство финансов Российской Федерации - https://www.minfin.ru/ru/opendata/;
@@ -24,12 +30,6 @@
 
 * Каталог порталов открытых данных по России - https://github.com/infoculture/awesome-opendata-rus
 * Хаб открытых данных - http://hubofdata.ru
-
-## Идеи и задачи для хакатона
-
-* Идеи для хакатона собраны по ссылке - https://github.com/infoculture/budgetapps/issues
-
-* Также посмотрите на идеи собранные в рамках других конкурсов чтобы понимать, что можно сделать по аналогии https://github.com/infoculture/datatasks/issues
 
 ##Где общаться и задавать вопросы?
 
