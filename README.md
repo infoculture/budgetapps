@@ -39,6 +39,6 @@
 * На чате Telegram по открытым данным - https://telegram.me/opendatarussiachat
 * Ивану Бегтину в Telegram - http://telegram.me/begtinchat
 * На канале в Slack - https://opendatarussia.slack.com/messages (для регистрации напишите на kvorlova@infoculture.ru)
-* Есть что дополнить?
+### Есть что дополнить?
 
 * Напишите на budgetapps@infoculture.ru или сделайте pull request в github'е с Вашими дополнениями.
