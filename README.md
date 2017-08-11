@@ -31,7 +31,7 @@
 * Каталог порталов открытых данных по России - https://github.com/infoculture/awesome-opendata-rus
 * Хаб открытых данных - http://hubofdata.ru
 
-##Где общаться и задавать вопросы?
+## Где общаться и задавать вопросы?
 
 ### Вопросы можно задавать:
 
@@ -41,4 +41,4 @@
 * На канале в Slack - https://opendatarussia.slack.com/messages (для регистрации напишите на kvorlova@infoculture.ru)
 * Есть что дополнить?
 
-### Напишите на budgetapps@infoculture.ru или сделайте pull request в github'е с Вашими дополнениями.
+* Напишите на budgetapps@infoculture.ru или сделайте pull request в github'е с Вашими дополнениями.
